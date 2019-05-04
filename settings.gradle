@@ -1,0 +1,4 @@
+rootProject.name = 'pwd'
+include 'server'
+include 'web'
+
