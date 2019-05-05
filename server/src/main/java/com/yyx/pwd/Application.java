@@ -1,5 +1,6 @@
 package com.yyx.pwd;
 
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
@@ -8,6 +9,7 @@ import org.springframework.web.context.WebApplicationContext;
 import org.springframework.web.servlet.DispatcherServlet;
 
 @SpringBootApplication
+@MapperScan("com.yyx.pwd.mapper")
 public class Application {
 
     public static void main(String[] args) {
