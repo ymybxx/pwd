@@ -2,12 +2,22 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view/>
+
+    <el-footer>
+     <!--分页-->
+　　<paging></paging>
+    </el-footer>
   </div>
 </template>
 
 <script>
+import paging from '@/components/paging'
+//import paging from './components/paging.vue'
 export default {
-  name: 'App'
+  name: 'App',
+  components:{
+    paging
+  }
 }
 </script>
 

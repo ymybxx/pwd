@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d99d744c-2018-4ddd-8e0c-ec9ac7cf48a2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/package-lock.json" afterPath="$PROJECT_DIR$/web/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/package.json" afterPath="$PROJECT_DIR$/web/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main.js" afterPath="$PROJECT_DIR$/web/src/main.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/server/.gradle/" />
+    <ignored path="$PROJECT_DIR$/server/build/" />
+    <ignored path="$PROJECT_DIR$/server/out/" />
+    <ignored path="$PROJECT_DIR$/web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web/build/" />
+    <ignored path="$PROJECT_DIR$/web/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/server">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/web">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":server" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":server" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":server" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":web" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":web" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":web" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":web" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":web" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":web" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pwd" type="f1a62948:ProjectNode" />
+                <item name=":web" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="node" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/controller/AppController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/resources/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.base.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/script/webpack.base.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1556998602317" expanded="true" signature="363998:364004" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="364021:364204" ph="{&quot;version&quot;: &quot;2.3.8&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="364222:364561" ph="{&quot;version&quot;: &quot;2.0.5&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="364483:364555" ph="{&quot;readable-stream&quot;: &quot;~2.3.6&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="364577:364820" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="364840:365091" ph="{&quot;version&quot;: &quot;2.2.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="365118:365447" ph="{&quot;version&quot;: &quot;2.0.10&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="365399:365441" ph="{&quot;setimmediate&quot;: &quot;^1.0.4&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="365460:365758" ph="{&quot;version&quot;: &quot;0.0.33&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="365713:365752" ph="{&quot;os-tmpdir&quot;: &quot;~1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="365782:365979" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="366007:366212" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="366236:366490" ph="{&quot;version&quot;: &quot;0.3.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="366447:366484" ph="{&quot;kind-of&quot;: &quot;^3.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="366508:366919" ph="{&quot;version&quot;: &quot;3.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="366769:366913" ph="{&quot;define-property&quot;: &quot;^2.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="366943:367234" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="367154:367228" ph="{&quot;is-number&quot;: &quot;^3.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="367252:367437" ph="{&quot;version&quot;: &quot;1.0.7&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="367460:367655" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="367675:367864" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="367879:368120" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="368144:368341" ph="{&quot;version&quot;: &quot;0.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="368361:368610" ph="{&quot;version&quot;: &quot;0.3.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="368564:368604" ph="{&quot;prelude-ls&quot;: &quot;~1.1.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="368627:368967" ph="{&quot;version&quot;: &quot;1.6.18&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="368888:368961" ph="{&quot;media-typer&quot;: &quot;0.3.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="368987:369176" ph="{&quot;version&quot;: &quot;0.0.6&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="369195:369864" ph="{&quot;version&quot;: &quot;3.4.10&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="369460:369532" ph="{&quot;commander&quot;: &quot;~2.19.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="369556:369858" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="369579:369850" ph="{&quot;version&quot;: &quot;2.19.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="369894:370127" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="370160:373227" ph="{&quot;version&quot;: &quot;1.3.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="370451:370734" ph="{&quot;cacache&quot;: &quot;^10.0.4&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="370758:373221" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="370775:371241" ph="{&quot;version&quot;: &quot;6.10.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="371048:371231" ph="{&quot;fast-deep-equal&quot;: &quot;^2.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="371267:371542" ph="{&quot;version&quot;: &quot;3.4.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="371565:371836" ph="{&quot;version&quot;: &quot;2.13.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="371865:372084" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="372118:372409" ph="{&quot;version&quot;: &quot;0.4.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="372435:372813" ph="{&quot;version&quot;: &quot;0.4.7&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="372724:372803" ph="{&quot;ajv&quot;: &quot;^6.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="372836:373213" ph="{&quot;version&quot;: &quot;3.3.9&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="373119:373203" ph="{&quot;commander&quot;: &quot;~2.13.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="373248:374373" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="373453:373589" ph="{&quot;arr-union&quot;: &quot;^3.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="373613:374367" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="373641:373933" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="373872:373923" ph="{&quot;is-extendable&quot;: &quot;^0.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="373956:374359" ph="{&quot;version&quot;: &quot;0.4.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="374177:374349" ph="{&quot;extend-shallow&quot;: &quot;^2.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="374387:374564" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="374579:374758" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="374783:375105" ph="{&quot;version&quot;: &quot;1.1.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="375058:375099" ph="{&quot;unique-slug&quot;: &quot;^2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="375126:375440" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="375393:375434" ph="{&quot;imurmurhash&quot;: &quot;^0.1.4&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="375456:375637" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="375658:376945" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="375863:375932" ph="{&quot;has-value&quot;: &quot;^0.3.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="375956:376939" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="375979:376698" ph="{&quot;version&quot;: &quot;0.3.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="376200:376317" ph="{&quot;get-value&quot;: &quot;^2.0.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="376345:376688" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="376371:376676" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="376610:376662" ph="{&quot;isarray&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="376722:376931" ph="{&quot;version&quot;: &quot;0.1.4&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="376960:377201" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="377221:377410" ph="{&quot;version&quot;: &quot;1.1.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="377426:377727" ph="{&quot;version&quot;: &quot;4.2.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="377683:377721" ph="{&quot;punycode&quot;: &quot;^2.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="377741:377918" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="377931:378456" ph="{&quot;version&quot;: &quot;0.11.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="378122:378191" ph="{&quot;punycode&quot;: &quot;1.3.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="378215:378450" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="378237:378442" ph="{&quot;version&quot;: &quot;1.3.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="378476:379061" ph="{&quot;version&quot;: &quot;0.5.9&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="378741:378808" ph="{&quot;loader-utils&quot;: &quot;^1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="378832:379055" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="378850:379047" ph="{&quot;version&quot;: &quot;1.3.6&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="379080:379428" ph="{&quot;version&quot;: &quot;1.4.7&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="379343:379422" ph="{&quot;querystringify&quot;: &quot;^2.1.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="379441:379678" ph="{&quot;version&quot;: &quot;3.1.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="379692:379990" ph="{&quot;version&quot;: &quot;0.11.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="379947:379984" ph="{&quot;inherits&quot;: &quot;2.0.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="380014:380211" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="380226:380405" ph="{&quot;version&quot;: &quot;0.4.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="380426:380617" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="380631:380870" ph="{&quot;version&quot;: &quot;3.3.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="380908:381300" ph="{&quot;version&quot;: &quot;3.0.4&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="381209:381294" ph="{&quot;spdx-correct&quot;: &quot;^3.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="381314:381491" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="381508:381753" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="381776:382027" ph="{&quot;version&quot;: &quot;0.0.4&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="381985:382021" ph="{&quot;indexof&quot;: &quot;0.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="382040:382260" ph="{&quot;version&quot;: &quot;2.6.10&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="382279:382509" ph="{&quot;version&quot;: &quot;2.1.4&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="382536:383664" ph="{&quot;version&quot;: &quot;2.0.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="382815:383011" ph="{&quot;debug&quot;: &quot;^3.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="383035:383658" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="383054:383379" ph="{&quot;version&quot;: &quot;3.2.6&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="383329:383369" ph="{&quot;ms&quot;: &quot;^2.1.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="383395:383650" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="383692:383959" ph="{&quot;version&quot;: &quot;2.3.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="383979:386301" ph="{&quot;version&quot;: &quot;13.7.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="384246:384717" ph="{&quot;consolidate&quot;: &quot;^0.14.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="384741:386295" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="384766:385336" ph="{&quot;version&quot;: &quot;2.2.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="385053:385326" ph="{&quot;is-directory&quot;: &quot;^0.3.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="385358:385563" ph="{&quot;version&quot;: &quot;1.2.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="385596:386027" ph="{&quot;version&quot;: &quot;1.2.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="385837:386017" ph="{&quot;cosmiconfig&quot;: &quot;^2.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="386060:386287" ph="{&quot;version&quot;: &quot;1.2.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="386321:386553" ph="{&quot;version&quot;: &quot;3.0.6&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="386579:386934" ph="{&quot;version&quot;: &quot;3.1.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="386856:386928" ph="{&quot;hash-sum&quot;: &quot;^1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="386965:387323" ph="{&quot;version&quot;: &quot;2.6.10&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="387254:387317" ph="{&quot;de-indent&quot;: &quot;^1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="387361:387648" ph="{&quot;version&quot;: &quot;1.9.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="387667:388038" ph="{&quot;version&quot;: &quot;1.6.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="387930:388032" ph="{&quot;chokidar&quot;: &quot;^2.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="388052:388360" ph="{&quot;version&quot;: &quot;1.7.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="388305:388354" ph="{&quot;minimalistic-assert&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="388377:392817" ph="{&quot;version&quot;: &quot;3.12.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="388638:389362" ph="{&quot;acorn&quot;: &quot;^5.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="389386:392811" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="389403:389869" ph="{&quot;version&quot;: &quot;6.10.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="389676:389859" ph="{&quot;fast-deep-equal&quot;: &quot;^2.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="389895:390170" ph="{&quot;version&quot;: &quot;3.4.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="390199:390418" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="390440:390645" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="390679:390970" ph="{&quot;version&quot;: &quot;0.4.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="390994:391203" ph="{&quot;version&quot;: &quot;0.5.7&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="391231:391518" ph="{&quot;version&quot;: &quot;4.5.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="391462:391508" ph="{&quot;has-flag&quot;: &quot;^2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="391541:392382" ph="{&quot;version&quot;: &quot;2.8.29&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="391764:391890" ph="{&quot;source-map&quot;: &quot;~0.5.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="391918:392372" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="391941:392360" ph="{&quot;version&quot;: &quot;3.10.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="392176:392346" ph="{&quot;camelcase&quot;: &quot;^1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="392419:392803" ph="{&quot;version&quot;: &quot;0.4.6&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="392668:392793" ph="{&quot;source-map&quot;: &quot;^0.5.6&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="392850:393500" ph="{&quot;version&quot;: &quot;2.13.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="393143:393494" ph="{&quot;acorn&quot;: &quot;^5.3.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="393532:393998" ph="{&quot;version&quot;: &quot;1.12.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="393823:393992" ph="{&quot;memory-fs&quot;: &quot;~0.4.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="394026:401697" ph="{&quot;version&quot;: &quot;2.11.5&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="394309:395184" ph="{&quot;ansi-html&quot;: &quot;0.0.7&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="395208:401691" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="395231:395438" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="395457:395801" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="395670:395791" ph="{&quot;string-width&quot;: &quot;^1.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="395820:396145" ph="{&quot;version&quot;: &quot;3.2.6&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="396095:396135" ph="{&quot;ms&quot;: &quot;^2.1.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="396166:396482" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="396383:396472" ph="{&quot;path-exists&quot;: &quot;^2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="396519:396829" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="396768:396819" ph="{&quot;number-is-nan&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="396857:397288" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="397088:397278" ph="{&quot;graceful-fs&quot;: &quot;^4.1.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="397304:397559" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="397582:397855" ph="{&quot;version&quot;: &quot;1.4.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="397803:397845" ph="{&quot;lcid&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="397880:398167" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="398105:398157" ph="{&quot;pinkie-promise&quot;: &quot;^2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="398190:398540" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="398411:398530" ph="{&quot;graceful-fs&quot;: &quot;^4.1.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="398558:398755" ph="{&quot;version&quot;: &quot;2.3.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="398777:399141" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="398996:399131" ph="{&quot;load-json-file&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="399166:399480" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="399391:399470" ph="{&quot;find-up&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="399506:399879" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="399733:399869" ph="{&quot;code-point-at&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="399902:400178" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="400123:400168" ph="{&quot;is-utf8&quot;: &quot;^0.2.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="400204:400417" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="400435:400632" ph="{&quot;version&quot;: &quot;3.2.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="400651:401373" ph="{&quot;version&quot;: &quot;6.6.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="400864:401363" ph="{&quot;camelcase&quot;: &quot;^3.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="401399:401683" ph="{&quot;version&quot;: &quot;4.2.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="401626:401673" ph="{&quot;camelcase&quot;: &quot;^3.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="401720:402034" ph="{&quot;version&quot;: &quot;4.2.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="401991:402028" ph="{&quot;lodash&quot;: &quot;^4.17.5&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="402059:402417" ph="{&quot;version&quot;: &quot;1.3.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="402334:402411" ph="{&quot;source-list-map&quot;: &quot;^2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="402443:402752" ph="{&quot;version&quot;: &quot;0.7.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="402658:402746" ph="{&quot;http-parser-js&quot;: &quot;&gt;=0.4.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="402782:403053" ph="{&quot;version&quot;: &quot;0.1.3&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="403074:403265" ph="{&quot;version&quot;: &quot;0.9.9&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="403280:403576" ph="{&quot;version&quot;: &quot;1.3.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="403535:403570" ph="{&quot;isexe&quot;: &quot;^2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="403598:403791" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="403812:404003" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="404021:404206" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="404227:404535" ph="{&quot;version&quot;: &quot;1.7.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="404494:404529" ph="{&quot;errno&quot;: &quot;~0.1.7&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="404554:405613" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="404755:404829" ph="{&quot;string-width&quot;: &quot;^1.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="404853:405607" ph="{...}" />
+                <marker date="1556998602317" expanded="true" signature="404890:405200" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="405139:405190" ph="{&quot;number-is-nan&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="405226:405599" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="405453:405589" ph="{&quot;code-point-at&quot;: &quot;^1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="405629:405810" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="405825:406060" ph="{&quot;version&quot;: &quot;0.2.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="406018:406054" ph="{&quot;mkdirp&quot;: &quot;^0.5.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="406072:406403" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="406321:406397" ph="{&quot;async-limiter&quot;: &quot;~1.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="406418:406597" ph="{&quot;version&quot;: &quot;4.0.1&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="406615:406917" ph="{&quot;version&quot;: &quot;0.2.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="406876:406911" ph="{&quot;cuint&quot;: &quot;^0.2.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="406931:407170" ph="{&quot;version&quot;: &quot;4.0.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="407187:407370" ph="{&quot;version&quot;: &quot;2.1.2&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="407578:408021" ph="{&quot;camelcase&quot;: &quot;^4.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="408068:408275" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+                <marker date="1556998602317" expanded="true" signature="408507:408628" ph="{&quot;string-width&quot;: &quot;^1.0.1&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <marker date="1556998602040" expanded="true" signature="508:2074" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+                <marker date="1556998602040" expanded="true" signature="2089:2140" ph="{&quot;node&quot;: &quot;&gt;= 6.0.0&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.10" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="pwd" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="pwd" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":server" />
+                <option name="path" value="$PROJECT_DIR$/server" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":web" />
+                <option name="path" value="$PROJECT_DIR$/web" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'pwd'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'pwd'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'pwd'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'pwd'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Download and install a local node/npm version." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="nodeSetup" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="npmBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'pwd'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'pwd' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'pwd'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Setup a specific version of npm to be used by the build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="npmSetup" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'pwd'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Install node packages from package.json." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="npmInstall" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="npmDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Install node packages using Yarn." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="yarn" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'pwd'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Setup a specific version of Yarn to be used by the build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="yarnSetup" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/server">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':server'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':server'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/server" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/web">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Download and install a local node/npm version." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="nodeSetup" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="npmBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':web'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Setup a specific version of npm to be used by the build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="npmSetup" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Install node packages from package.json." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="npmInstall" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="npmDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Install node packages using Yarn." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="yarn" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':web'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Setup a specific version of Yarn to be used by the build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/web" />
+                <option name="name" value="yarnSetup" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="7784810895000" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="960685793" />
+        <entry key="$PROJECT_DIR$/server/build.gradle" value="1709281036" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="69346276" />
+        <entry key="$PROJECT_DIR$/web/build.gradle" value="1183983231" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/server">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.4.RELEASE/531200f161ffd934b8db6dfbf84ee85f1bd7b67f/spring-boot-gradle-plugin-2.1.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.1.4.RELEASE/d0fdc1a76c4d7ebaf3a9326d9ed7003922d5a888/spring-boot-loader-tools-2.1.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/1191f9f2bc0c47a8cce69193feb1ff0a8bcb37d5/commons-compress-1.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.6.RELEASE/9329591e728ef9844911e082e399f4fc3e3ecb37/spring-core-5.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.6.RELEASE/a4ad3c98c7cc31357e94e12772c8e6449522bc5/spring-jcl-5.1.6.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/server" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/web">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.moowork.gradle/gradle-node-plugin/1.3.1/4f451bc43200a704bda7992ca79405897e0634e3/gradle-node-plugin-1.3.1.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/web" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="pwd" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-model-groovy-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-persistent-cache-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-process-services-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-kotlin-dsl-1.0-rc-1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-cli-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-core-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/groovy-all-2.4.15.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-runtime-api-info-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-base-services-groovy-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-jvm-services-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-base-services-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-logging-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-messaging-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-docs-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-kotlin-dsl-tooling-builders-1.0-rc-1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-resources-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-model-core-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-api-metadata-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-tooling-api-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-kotlin-dsl-tooling-models-1.0-rc-1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-kotlin-dsl-provider-plugins-1.0-rc-1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-launcher-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-native-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-wrapper-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-build-option-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-core-api-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-build-cache-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/gradle-installation-beacon-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-testing-jvm-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-composite-builds-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-ear-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-build-cache-http-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-publish-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-testing-base-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-signing-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-resources-s3-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-ivy-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-language-native-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-announce-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-ide-native-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-diagnostics-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-resources-gcs-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-osgi-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-language-java-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-build-comparison-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-tooling-api-builders-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-testing-native-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-platform-native-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-language-jvm-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-code-quality-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-platform-jvm-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-version-control-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-ide-play-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-javascript-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-platform-play-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-jacoco-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-test-kit-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-testing-junit-platform-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-dependency-management-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-plugin-development-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-antlr-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-scala-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-maven-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-language-scala-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-tooling-native-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-platform-base-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-resources-http-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-ide-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-reporting-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-plugin-use-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-build-init-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-resources-sftp-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-plugins-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-workers-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/gradle-language-groovy-4.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.10-rc-1-bin/7nbv1c5upja8fn8heqi2up1y5/gradle-4.10-rc-1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/build.gradle" />
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/ApplController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/AppController.java" />
+        <option value="$PROJECT_DIR$/server/index.html" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/server/build.gradle" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/controller/AppController.java" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/controller/Application.java" />
+        <option value="$PROJECT_DIR$/server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/web/package.json" />
+        <option value="$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/Application.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/web/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pwd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="pwd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pwd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pwd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="pwd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pwd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pwd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pwd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pwd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pwd" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="github&#9;ACTION&#9;Github.Share&#10;app&#9;FILE&#9;file:///Users/inequality/workspace/pwd/server/src/main/java/com/yyx/pwd/Application.java&#10;con&#9;FILE&#9;file:///Users/inequality/workspace/pwd/server/src/main/java/com/yyx/pwd/controller/AppController.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.pwd:server [bootRun]">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yyx.pwd.Application" />
+      <module name="server_main" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="pwd:server [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="pwd:web [npmBuild]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/web" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="npmBuild" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="pwd:web [npmDev]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/web" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="npmDev" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Gradle.pwd:server [bootRun]" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="2" class="java.lang.String" itemvalue="Gradle.pwd:web [npmDev]" />
+      <item index="3" class="java.lang.String" itemvalue="Gradle.pwd:web [npmBuild]" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Gradle.pwd:server [bootRun]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.pwd:web [npmBuild]" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.pwd:web [npmDev]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1556977951750" />
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d99d744c-2018-4ddd-8e0c-ec9ac7cf48a2" name="Default" comment="" />
+      <created>1556958334348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556958334348</updated>
+      <workItem from="1556958340476" duration="1776000" />
+      <workItem from="1556960201270" duration="13237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15013000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10500808" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/controller/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="70" lean-forward="false" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="7" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/script/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <marker date="1556998602040" expanded="true" signature="508:2074" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+            <marker date="1556998602040" expanded="true" signature="2089:2140" ph="{&quot;node&quot;: &quot;&gt;= 6.0.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/controller/AppController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1556998602317" expanded="true" signature="363998:364004" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="364021:364204" ph="{&quot;version&quot;: &quot;2.3.8&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="364222:364561" ph="{&quot;version&quot;: &quot;2.0.5&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="364483:364555" ph="{&quot;readable-stream&quot;: &quot;~2.3.6&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="364577:364820" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="364840:365091" ph="{&quot;version&quot;: &quot;2.2.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="365118:365447" ph="{&quot;version&quot;: &quot;2.0.10&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="365399:365441" ph="{&quot;setimmediate&quot;: &quot;^1.0.4&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="365460:365758" ph="{&quot;version&quot;: &quot;0.0.33&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="365713:365752" ph="{&quot;os-tmpdir&quot;: &quot;~1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="365782:365979" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="366007:366212" ph="{&quot;version&quot;: &quot;1.0.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="366236:366490" ph="{&quot;version&quot;: &quot;0.3.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="366447:366484" ph="{&quot;kind-of&quot;: &quot;^3.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="366508:366919" ph="{&quot;version&quot;: &quot;3.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="366769:366913" ph="{&quot;define-property&quot;: &quot;^2.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="366943:367234" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="367154:367228" ph="{&quot;is-number&quot;: &quot;^3.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="367252:367437" ph="{&quot;version&quot;: &quot;1.0.7&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="367460:367655" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="367675:367864" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="367879:368120" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="368144:368341" ph="{&quot;version&quot;: &quot;0.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="368361:368610" ph="{&quot;version&quot;: &quot;0.3.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="368564:368604" ph="{&quot;prelude-ls&quot;: &quot;~1.1.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="368627:368967" ph="{&quot;version&quot;: &quot;1.6.18&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="368888:368961" ph="{&quot;media-typer&quot;: &quot;0.3.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="368987:369176" ph="{&quot;version&quot;: &quot;0.0.6&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="369195:369864" ph="{&quot;version&quot;: &quot;3.4.10&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="369460:369532" ph="{&quot;commander&quot;: &quot;~2.19.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="369556:369858" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="369579:369850" ph="{&quot;version&quot;: &quot;2.19.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="369894:370127" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="370160:373227" ph="{&quot;version&quot;: &quot;1.3.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="370451:370734" ph="{&quot;cacache&quot;: &quot;^10.0.4&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="370758:373221" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="370775:371241" ph="{&quot;version&quot;: &quot;6.10.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="371048:371231" ph="{&quot;fast-deep-equal&quot;: &quot;^2.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="371267:371542" ph="{&quot;version&quot;: &quot;3.4.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="371565:371836" ph="{&quot;version&quot;: &quot;2.13.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="371865:372084" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="372118:372409" ph="{&quot;version&quot;: &quot;0.4.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="372435:372813" ph="{&quot;version&quot;: &quot;0.4.7&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="372724:372803" ph="{&quot;ajv&quot;: &quot;^6.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="372836:373213" ph="{&quot;version&quot;: &quot;3.3.9&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="373119:373203" ph="{&quot;commander&quot;: &quot;~2.13.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="373248:374373" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="373453:373589" ph="{&quot;arr-union&quot;: &quot;^3.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="373613:374367" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="373641:373933" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="373872:373923" ph="{&quot;is-extendable&quot;: &quot;^0.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="373956:374359" ph="{&quot;version&quot;: &quot;0.4.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="374177:374349" ph="{&quot;extend-shallow&quot;: &quot;^2.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="374387:374564" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="374579:374758" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="374783:375105" ph="{&quot;version&quot;: &quot;1.1.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="375058:375099" ph="{&quot;unique-slug&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="375126:375440" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="375393:375434" ph="{&quot;imurmurhash&quot;: &quot;^0.1.4&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="375456:375637" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="375658:376945" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="375863:375932" ph="{&quot;has-value&quot;: &quot;^0.3.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="375956:376939" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="375979:376698" ph="{&quot;version&quot;: &quot;0.3.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="376200:376317" ph="{&quot;get-value&quot;: &quot;^2.0.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="376345:376688" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="376371:376676" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="376610:376662" ph="{&quot;isarray&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="376722:376931" ph="{&quot;version&quot;: &quot;0.1.4&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="376960:377201" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="377221:377410" ph="{&quot;version&quot;: &quot;1.1.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="377426:377727" ph="{&quot;version&quot;: &quot;4.2.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="377683:377721" ph="{&quot;punycode&quot;: &quot;^2.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="377741:377918" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="377931:378456" ph="{&quot;version&quot;: &quot;0.11.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="378122:378191" ph="{&quot;punycode&quot;: &quot;1.3.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="378215:378450" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="378237:378442" ph="{&quot;version&quot;: &quot;1.3.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="378476:379061" ph="{&quot;version&quot;: &quot;0.5.9&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="378741:378808" ph="{&quot;loader-utils&quot;: &quot;^1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="378832:379055" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="378850:379047" ph="{&quot;version&quot;: &quot;1.3.6&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="379080:379428" ph="{&quot;version&quot;: &quot;1.4.7&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="379343:379422" ph="{&quot;querystringify&quot;: &quot;^2.1.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="379441:379678" ph="{&quot;version&quot;: &quot;3.1.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="379692:379990" ph="{&quot;version&quot;: &quot;0.11.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="379947:379984" ph="{&quot;inherits&quot;: &quot;2.0.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="380014:380211" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="380226:380405" ph="{&quot;version&quot;: &quot;0.4.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="380426:380617" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="380631:380870" ph="{&quot;version&quot;: &quot;3.3.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="380908:381300" ph="{&quot;version&quot;: &quot;3.0.4&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="381209:381294" ph="{&quot;spdx-correct&quot;: &quot;^3.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="381314:381491" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="381508:381753" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="381776:382027" ph="{&quot;version&quot;: &quot;0.0.4&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="381985:382021" ph="{&quot;indexof&quot;: &quot;0.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="382040:382260" ph="{&quot;version&quot;: &quot;2.6.10&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="382279:382509" ph="{&quot;version&quot;: &quot;2.1.4&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="382536:383664" ph="{&quot;version&quot;: &quot;2.0.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="382815:383011" ph="{&quot;debug&quot;: &quot;^3.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="383035:383658" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="383054:383379" ph="{&quot;version&quot;: &quot;3.2.6&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="383329:383369" ph="{&quot;ms&quot;: &quot;^2.1.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="383395:383650" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="383692:383959" ph="{&quot;version&quot;: &quot;2.3.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="383979:386301" ph="{&quot;version&quot;: &quot;13.7.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="384246:384717" ph="{&quot;consolidate&quot;: &quot;^0.14.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="384741:386295" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="384766:385336" ph="{&quot;version&quot;: &quot;2.2.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="385053:385326" ph="{&quot;is-directory&quot;: &quot;^0.3.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="385358:385563" ph="{&quot;version&quot;: &quot;1.2.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="385596:386027" ph="{&quot;version&quot;: &quot;1.2.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="385837:386017" ph="{&quot;cosmiconfig&quot;: &quot;^2.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="386060:386287" ph="{&quot;version&quot;: &quot;1.2.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="386321:386553" ph="{&quot;version&quot;: &quot;3.0.6&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="386579:386934" ph="{&quot;version&quot;: &quot;3.1.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="386856:386928" ph="{&quot;hash-sum&quot;: &quot;^1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="386965:387323" ph="{&quot;version&quot;: &quot;2.6.10&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="387254:387317" ph="{&quot;de-indent&quot;: &quot;^1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="387361:387648" ph="{&quot;version&quot;: &quot;1.9.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="387667:388038" ph="{&quot;version&quot;: &quot;1.6.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="387930:388032" ph="{&quot;chokidar&quot;: &quot;^2.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="388052:388360" ph="{&quot;version&quot;: &quot;1.7.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="388305:388354" ph="{&quot;minimalistic-assert&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="388377:392817" ph="{&quot;version&quot;: &quot;3.12.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="388638:389362" ph="{&quot;acorn&quot;: &quot;^5.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="389386:392811" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="389403:389869" ph="{&quot;version&quot;: &quot;6.10.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="389676:389859" ph="{&quot;fast-deep-equal&quot;: &quot;^2.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="389895:390170" ph="{&quot;version&quot;: &quot;3.4.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="390199:390418" ph="{&quot;version&quot;: &quot;2.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="390440:390645" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="390679:390970" ph="{&quot;version&quot;: &quot;0.4.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="390994:391203" ph="{&quot;version&quot;: &quot;0.5.7&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="391231:391518" ph="{&quot;version&quot;: &quot;4.5.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="391462:391508" ph="{&quot;has-flag&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="391541:392382" ph="{&quot;version&quot;: &quot;2.8.29&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="391764:391890" ph="{&quot;source-map&quot;: &quot;~0.5.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="391918:392372" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="391941:392360" ph="{&quot;version&quot;: &quot;3.10.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="392176:392346" ph="{&quot;camelcase&quot;: &quot;^1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="392419:392803" ph="{&quot;version&quot;: &quot;0.4.6&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="392668:392793" ph="{&quot;source-map&quot;: &quot;^0.5.6&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="392850:393500" ph="{&quot;version&quot;: &quot;2.13.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="393143:393494" ph="{&quot;acorn&quot;: &quot;^5.3.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="393532:393998" ph="{&quot;version&quot;: &quot;1.12.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="393823:393992" ph="{&quot;memory-fs&quot;: &quot;~0.4.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="394026:401697" ph="{&quot;version&quot;: &quot;2.11.5&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="394309:395184" ph="{&quot;ansi-html&quot;: &quot;0.0.7&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="395208:401691" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="395231:395438" ph="{&quot;version&quot;: &quot;3.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="395457:395801" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="395670:395791" ph="{&quot;string-width&quot;: &quot;^1.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="395820:396145" ph="{&quot;version&quot;: &quot;3.2.6&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="396095:396135" ph="{&quot;ms&quot;: &quot;^2.1.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="396166:396482" ph="{&quot;version&quot;: &quot;1.1.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="396383:396472" ph="{&quot;path-exists&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="396519:396829" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="396768:396819" ph="{&quot;number-is-nan&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="396857:397288" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="397088:397278" ph="{&quot;graceful-fs&quot;: &quot;^4.1.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="397304:397559" ph="{&quot;version&quot;: &quot;2.1.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="397582:397855" ph="{&quot;version&quot;: &quot;1.4.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="397803:397845" ph="{&quot;lcid&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="397880:398167" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="398105:398157" ph="{&quot;pinkie-promise&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="398190:398540" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="398411:398530" ph="{&quot;graceful-fs&quot;: &quot;^4.1.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="398558:398755" ph="{&quot;version&quot;: &quot;2.3.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="398777:399141" ph="{&quot;version&quot;: &quot;1.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="398996:399131" ph="{&quot;load-json-file&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="399166:399480" ph="{&quot;version&quot;: &quot;1.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="399391:399470" ph="{&quot;find-up&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="399506:399879" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="399733:399869" ph="{&quot;code-point-at&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="399902:400178" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="400123:400168" ph="{&quot;is-utf8&quot;: &quot;^0.2.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="400204:400417" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="400435:400632" ph="{&quot;version&quot;: &quot;3.2.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="400651:401373" ph="{&quot;version&quot;: &quot;6.6.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="400864:401363" ph="{&quot;camelcase&quot;: &quot;^3.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="401399:401683" ph="{&quot;version&quot;: &quot;4.2.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="401626:401673" ph="{&quot;camelcase&quot;: &quot;^3.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="401720:402034" ph="{&quot;version&quot;: &quot;4.2.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="401991:402028" ph="{&quot;lodash&quot;: &quot;^4.17.5&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="402059:402417" ph="{&quot;version&quot;: &quot;1.3.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="402334:402411" ph="{&quot;source-list-map&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="402443:402752" ph="{&quot;version&quot;: &quot;0.7.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="402658:402746" ph="{&quot;http-parser-js&quot;: &quot;&gt;=0.4.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="402782:403053" ph="{&quot;version&quot;: &quot;0.1.3&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="403074:403265" ph="{&quot;version&quot;: &quot;0.9.9&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="403280:403576" ph="{&quot;version&quot;: &quot;1.3.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="403535:403570" ph="{&quot;isexe&quot;: &quot;^2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="403598:403791" ph="{&quot;version&quot;: &quot;2.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="403812:404003" ph="{&quot;version&quot;: &quot;0.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="404021:404206" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="404227:404535" ph="{&quot;version&quot;: &quot;1.7.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="404494:404529" ph="{&quot;errno&quot;: &quot;~0.1.7&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="404554:405613" ph="{&quot;version&quot;: &quot;2.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="404755:404829" ph="{&quot;string-width&quot;: &quot;^1.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="404853:405607" ph="{...}" />
+            <marker date="1556998602317" expanded="true" signature="404890:405200" ph="{&quot;version&quot;: &quot;1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="405139:405190" ph="{&quot;number-is-nan&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="405226:405599" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="405453:405589" ph="{&quot;code-point-at&quot;: &quot;^1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="405629:405810" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="405825:406060" ph="{&quot;version&quot;: &quot;0.2.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="406018:406054" ph="{&quot;mkdirp&quot;: &quot;^0.5.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="406072:406403" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="406321:406397" ph="{&quot;async-limiter&quot;: &quot;~1.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="406418:406597" ph="{&quot;version&quot;: &quot;4.0.1&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="406615:406917" ph="{&quot;version&quot;: &quot;0.2.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="406876:406911" ph="{&quot;cuint&quot;: &quot;^0.2.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="406931:407170" ph="{&quot;version&quot;: &quot;4.0.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="407187:407370" ph="{&quot;version&quot;: &quot;2.1.2&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="407578:408021" ph="{&quot;camelcase&quot;: &quot;^4.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="408068:408275" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1556998602317" expanded="true" signature="408507:408628" ph="{&quot;string-width&quot;: &quot;^1.0.1&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/yyx/pwd/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
