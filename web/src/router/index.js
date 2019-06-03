@@ -4,6 +4,8 @@ import HelloWorld from '@/components/HelloWorld'
 import Login from '@/components/Login'
 import Index from '@/components/Index'
 import UserInfo from '@/components/UserInfo'
+import Publish from '@/components/Publish'
+
 
 Vue.use(Router)
 
@@ -27,6 +29,10 @@ export default new Router({
     {
       path: '/userInfo/:userName',
       component: UserInfo
+    },
+    {
+      path: '/publish/:userName',
+      component: Publish
     }
   ]
 })

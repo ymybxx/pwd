@@ -10,11 +10,13 @@
 
 <script>
 import paging from '@/components/paging'
+import navigation from "@/components/navigation";
 //import paging from './components/paging.vue'
 export default {
   name: 'App',
   components:{
-    paging
+    paging,
+    navigation
   }
 }
 </script>

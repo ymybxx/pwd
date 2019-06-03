@@ -3,7 +3,7 @@
     <navigation></navigation>
     <el-container>
       <el-container>
-        <el-aside width="200px" height="1000px">
+        <el-aside width="150px" height="1000px">
           <el-menu
             class="el-menu-demo"
             mode="vertical"
@@ -13,6 +13,7 @@
           >
             <el-menu-item index="1">个人中心</el-menu-item>
             <el-menu-item index="2">分析记录</el-menu-item>
+            <el-menu-item index="3">发帖记录</el-menu-item>
           </el-menu>
         </el-aside>
         <el-main height="">

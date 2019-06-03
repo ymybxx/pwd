@@ -13,13 +13,12 @@
   
   <el-menu-item :index="loginUrl" style="float:right">{{loginStatus}}</el-menu-item>
   <el-menu-item index="4" style="float:right">消息</el-menu-item>
+  <el-menu-item :index="publishUrl" style="float:right" v-show="isLogin">发帖</el-menu-item>
 </el-menu>
 
 </template>
 
 <script>
-    
-
     export default {
         name: 'navigation',
         data() {
@@ -27,7 +26,9 @@
             activeIndex: '1',
             activeIndex2: '1',
             loginStatus:'',
-            loginUrl:''
+            loginUrl:'',
+            publishUrl:'',
+            isLogin:false
         };
         },
     mounted(){
@@ -58,13 +59,16 @@
           })
       },
 
-      setLoginFeature(username){
-        if(!username){
+      setLoginFeature(userName){
+        if(!userName){
             this.loginStatus = '登录'
             this.loginUrl = '/login'
+            this.isLogin = false
         }else{
-            this.loginStatus = username
-            this.loginUrl = '/userinfo/yyx'
+            this.loginStatus = userName
+            this.loginUrl = '/userinfo/'+userName
+            this.publishUrl = '/publish/'+userName
+            this.isLogin = true
         }
       }
     }

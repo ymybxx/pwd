@@ -77,7 +77,6 @@ export default {
         if (!loginVue.success) {
           //alert(response.data.message)
         } else {
-          console.log(this.loginForm.userName)
           localStorage.setItem("userName", this.loginForm.userName);
           localStorage.setItem("token", loginVue.token);
           alert(response.data.message);
