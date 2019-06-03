@@ -7,5 +7,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 public interface UserMapper extends BaseMapper<User> {
-    List<User> findByIds(@Param("ids")List<Long> userIds);
+    User findByName(String name);
+    //更新用户
+    Integer update(User User);
 }

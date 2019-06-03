@@ -16,12 +16,12 @@ public class Application {
         SpringApplication.run(Application.class);
     }
 
-    //增加一个SpringMVC的DispatcherServlet，接收前台/api开头的请求
-    @Bean
-    public ServletRegistrationBean apiV1ServletBean(WebApplicationContext wac) {
-        DispatcherServlet servlet = new DispatcherServlet(wac);
-        ServletRegistrationBean bean = new ServletRegistrationBean(servlet, "/api/*");
-        bean.setName("ApiServlet");
-        return bean;
-    }
+//    //增加一个SpringMVC的DispatcherServlet，接收前台/api开头的请求
+//    @Bean
+//    public ServletRegistrationBean apiV1ServletBean(WebApplicationContext wac) {
+//        DispatcherServlet servlet = new DispatcherServlet(wac);
+//        ServletRegistrationBean bean = new ServletRegistrationBean(servlet, "/api/*");
+//        bean.setName("ApiServlet");
+//        return bean;
+//    }
 }

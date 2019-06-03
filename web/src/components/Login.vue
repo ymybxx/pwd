@@ -1,10 +1,10 @@
 <template>
   <div id="login">
     <el-form :model="loginForm" :rules="loginRules">
-      <h2>Ray商城登录</h2>
+      <h2>欢迎登陆</h2>
       <el-form-item prop="username">
         <el-input
-        v-model="loginForm.username"
+        v-model="loginForm.userName"
           name="username"
           placeholder="请输入用户名/手机号"
           auto-complete="on"
@@ -21,7 +21,7 @@
       </el-form-item>
 
       <el-form-item>
-        <el-button type="primary">登录</el-button>
+        <el-button v-on:click="login()" type="primary">登录</el-button>
       </el-form-item>
     </el-form>
   </div>
@@ -29,30 +29,30 @@
 
 <script>
 export default {
-  name: 'Login',
+  name: "Login",
   props: [""],
   data() {
     return {
-        loginForm: {
-            username: '',
-            password: '',
-        },
-        loginRules: {
-        username: [
-            {
-                required: true,
+      loginForm: {
+        userName: "",
+        password: ""
+      },
+      loginRules: {
+        userName: [
+          {
+            required: true,
 
-                message: "请输入用户名",
+            message: "请输入用户名",
 
-                trigger: "blur"
-            }
+            trigger: "blur"
+          }
         ],
         password: [
-           {
-               required: true,
-               message: '请输入密码',
-               trigger: 'blur'
-           }
+          {
+            required: true,
+            message: "请输入密码",
+            trigger: "blur"
+          }
         ]
       }
     };
@@ -66,13 +66,45 @@ export default {
 
   mounted() {},
 
-  methods: {},
+  methods: {
+    login() {
+      this.$axios({
+        method: "post",
+        url: "api/login",
+        data: this.loginForm
+      }).then(response => {
+        let loginVue = response.data.data
+        if (!loginVue.success) {
+          //alert(response.data.message)
+        } else {
+          console.log(this.loginForm.userName)
+          localStorage.setItem("userName", this.loginForm.userName);
+          localStorage.setItem("token", loginVue.token);
+          alert(response.data.message);
+          this.$router.push({ name: "Index" });
+        }
+      });
+    }
+  },
 
   watch: {}
 };
 </script>
-<style lang='' scoped>
+<style lang='css' scoped>
 .el-input {
   width: 300px;
+}
+
+#login {
+  background: url("../assets/login_back.jpg");
+  background-size: 100% 100%;
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+}
+
+.el-form-item {
+  text-align: center;
 }
 </style>

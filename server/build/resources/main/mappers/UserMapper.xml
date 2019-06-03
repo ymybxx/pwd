@@ -10,4 +10,17 @@
             #{id}
         </foreach>
     </select>
+
+    <select id="findByName" resultType="user">
+        select * from user where name = #{name}
+    </select>
+
+    <update id="update" parameterType="user">
+        update user
+        <trim prefix="set" suffixOverrides=",">
+            <if test="email != null">email=#{email},</if>
+            <if test="phone != null">phone=#{phone},</if>
+            updated_at=now(),
+        </trim>
+    </update>
 </mapper>

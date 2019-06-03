@@ -81,13 +81,21 @@ public class MpGenerator {
 
         // 包配置
         PackageConfig pc = new PackageConfig();
-        pc.setParent("com.mht.springbootmybatisplus");
-//        pc.setController("controller");
-//        pc.setService("service");
-//        pc.setServiceImpl("service");
+        String mainPath = "/Users/inequality/workspace/pwd/server/src/main";
+        String parentPath = mainPath+"/java/com.yyx.pwd";
+        pc.setParent("com.yyx.pwd");
+        pc.setEntity("entity");
+        pc.setService("service");
+        pc.setServiceImpl("service");
 
         Map<String, String> pathMap = new HashMap<>();
-        pathMap.put(ConstVal.XML_PATH, "/Users/inequality/workspace/pwd/server/src/main/resources/mappers");
+        pathMap.put(ConstVal.XML_PATH, mainPath + "/resources/mappers");
+        pathMap.put(ConstVal.CONTROLLER_PATH, parentPath + ".controller");
+        pathMap.put(ConstVal.ENTITY_PATH, parentPath + ".entity");
+        pathMap.put(ConstVal.SERVICE_IMPL_PATH, parentPath + ".service");
+        pathMap.put(ConstVal.SERVICE_PATH, parentPath + ".service");
+        pathMap.put(ConstVal.MAPPER_PATH, parentPath + ".mapper");
+
         pc.setPathInfo(pathMap);
         // pc.setModuleName("test");
         mpg.setPackageInfo(pc);

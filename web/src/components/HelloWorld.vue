@@ -91,21 +91,7 @@ export default {
       msg: 'Welcome to Your Vue.js App'
     }
   },
-  mounted: function () {
-  this.testApi()
-},
   methods:{
-    test(){
-      console.log("aaaa")
-    },
-    testApi(){
-      this.$axios({
-        method: 'post',
-        url:'/api/app/info',
-      }).then((response)=>{
-        console.log(response.data.info)
-      })
-    }
   }
 }
 </script>
